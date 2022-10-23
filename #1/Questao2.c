@@ -25,5 +25,6 @@ int main()
 	}
 	avg = Average(&nums, 3);
 	printf("Media desses valores sao %f", avg);
+	system("pause");
 	return 0;
 }
